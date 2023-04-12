@@ -7,7 +7,7 @@ This repository contains code for an American Sign Language (ASL) classifier tha
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required files.
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Demo
