@@ -111,8 +111,8 @@ print(sentence_str)
 
 """----------------------------------------------------------------------------------------------------------------------------"""
 
-url = "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/7c727344-6899-453a-ad30-44decb1cb6c6"
-apikey ="ROlCMaeBf3rjFSCVM8J3mEoAHOL0tIXsBcGysx5kTwPB"
+url = "INSERT YOUR URL"
+apikey ="INSERT YOUR API KEY"
 
 from ibm_watson import TextToSpeechV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
